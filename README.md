@@ -1,2 +1,2 @@
 # DS-Algo
-Problrm Solving
+Problem Solving
